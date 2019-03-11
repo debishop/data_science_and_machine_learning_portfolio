@@ -14,10 +14,4 @@ Tools and Environment
 
     
 - ## Data Analysis and Visualization (Python Programming)
-    - [Readmission Analysis](https://github.com/melvfernandez/data_science_portfolio/blob/master/Cryptocurrency%20Market%20Analysis.ipynb): Data analysis of Readmission dataset, answering some simple questions with table and visualizations
-
- 
-
-  
-
-u
+    - [Readmission Analysis](https://github.com/melvfernandez/data_science_portfolio/blob/master/Cryptocurrency%20Market%20Analysis.ipynb): Data analysis of Readmission dataset, answering some simple questions with table and visualizations.
