@@ -15,3 +15,6 @@ Tools and Environment
     
 - ## Data Analysis and Visualization (Python Programming)
     - [Readmission Analysis](https://github.com/debishop/data_science_and_machine_learning_portfolio/blob/master/projects/Readmission%20Data%20analysis.ipynb): Data analysis of Readmission dataset, answering some simple questions with table and visualizations.
+- ## Data Analysis and Visualization (Python Programming)
+    - [Readmission Dataset: Statistical Analysis](https://github.com/debishop/data_science_and_machine_learning_portfolio/blob/master/projects/Readmission%20Data%20analysis.ipynb): Statistic Data analysis of Readmission dataset, here i answered some simple statistical questions about the dataset.    
+
