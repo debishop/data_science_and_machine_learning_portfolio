@@ -14,5 +14,5 @@ Tools and Environment
     - [Readmission Dataset: Statistical Analysis](https://github.com/debishop/data_science_and_machine_learning_portfolio/blob/master/projects/Readmission%20Statistical%20Analysis.ipynb): Statistic Data analysis of Readmission dataset, here i answered some simple statistical questions about the dataset.    
 
 - ## Machine Learning
-    - [Readmission Prediction](https://github.com/debishop/data_science_and_machine_learning_portfolio/blob/master/projects/Readmission%20Data%20analysis.ipynb): Using some Classifications algorithm to learn and predict the probability of patient readmitted before 30 days.
+    - [Readmission Prediction](https://github.com/debishop/data_science_and_machine_learning_portfolio/blob/master/projects/Readmission%20Prediction.ipynb): Using some Classifications algorithms to learn and predict the probability of patient readmitted before 30 days.
 
